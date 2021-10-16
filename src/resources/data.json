@@ -1,0 +1,9 @@
+{
+  "PRODUCTION": {
+    "user_1": { "username": "test@gmail.com", "password": "00000" }
+  },
+
+  "INTEGRATION": {
+    "user_1": { "username": "test@gmail.com", "password": "00000" }
+  }
+}
